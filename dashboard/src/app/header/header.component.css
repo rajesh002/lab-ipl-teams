@@ -1,0 +1,10 @@
+.heading {
+  background: orangered;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  margin: 0;
+}

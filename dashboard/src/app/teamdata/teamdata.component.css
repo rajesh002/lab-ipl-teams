@@ -1,0 +1,27 @@
+#line1,
+#line2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin-left: 180px;
+  margin-top: 50px;
+}
+
+
+#team {
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
+}
+
+img {
+  height: 250px;
+  width: 250px;
+}
+
+.name {
+  font-weight: bold;
+}
+
+.link {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
